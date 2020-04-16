@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 朱琪的博客 | BY Blog
+title: ZHUQI's Blog
+SEOTitle: 朱琪的博客 | ZHUQI's Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: zq82705@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 朱琪的博客"
+keyword: "ZQ, ZHUQI's Blog, 朱琪的博客"
 url: "http://chacarrons.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/chacarrons/chacarrons.github.io.git" # you code repository
